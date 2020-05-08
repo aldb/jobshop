@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jobshop.encodings.EncodingTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-24T11:14:37" hostname="aldebert-SATELLITE-P870" time="0.021">
+  <properties/>
+  <testcase name="testBasicSolver" classname="jobshop.encodings.EncodingTests" time="0.014"/>
+  <testcase name="testJobNumbers" classname="jobshop.encodings.EncodingTests" time="0.006"/>
+  <system-out><![CDATA[ok
+nullJob:0Task:0Start Time:0
+Job:0Task:1Start Time:3
+Job:0Task:2Start Time:6
+Job:1Task:0Start Time:0
+Job:1Task:1Start Time:3
+Job:1Task:2Start Time:8
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
